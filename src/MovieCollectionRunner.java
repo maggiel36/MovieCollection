@@ -6,6 +6,5 @@ public class MovieCollectionRunner
   {
     MovieCollection collection = new MovieCollection("src\\movies_data.csv");
     collection.menu();
-    System.out.println("");
   }
 }
